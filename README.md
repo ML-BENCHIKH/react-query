@@ -1,2 +1,2 @@
 
-### React query example pagination using Ricky & Morty API Characters and @mantine/core library
+### react-query caching/pagination example using Ricky & Morty API Characters and @mantine/core library
