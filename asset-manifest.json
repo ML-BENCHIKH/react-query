@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-query/static/css/main.073c9b0a.css",
+    "main.js": "/react-query/static/js/main.ff4cf334.js",
+    "index.html": "/react-query/index.html",
+    "main.073c9b0a.css.map": "/react-query/static/css/main.073c9b0a.css.map",
+    "main.ff4cf334.js.map": "/react-query/static/js/main.ff4cf334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ff4cf334.js"
+  ]
+}
